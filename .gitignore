@@ -7,3 +7,13 @@
 .dev.vars.*
 !.dev.vars.example
 /design
+
+# Brouillons privés et fichiers de travail locaux
+/LINKEDIN_DRAFT.private.md
+/private/
+/tmp/
+*.private.*
+*.local.*
+
+# Propositions visuelles locales
+/generated_images/
